@@ -15,6 +15,7 @@ class _FocusedPowerState extends State<FocusedPower> {
   void initState() {
     super.initState();
     dipesh();
+    print('DIPEDMM');
   }
 
   @override
